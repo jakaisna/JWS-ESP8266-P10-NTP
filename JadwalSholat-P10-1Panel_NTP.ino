@@ -24,6 +24,8 @@ Eksternal Library
 - NTPClient
 - ArduinoJson V6 : https://github.com/bblanchon/ArduinoJson
 
+Toko Perlengkapan dan Sukucadang : www.elektronmart.com
+email : bonny@grobak.net - www.grobak.net  
 
 
 Updated : 10 Februari 2019
